@@ -1,0 +1,5 @@
+print(3)
+print(5)
+print(77)
+print(6543)
+print(34233332)
